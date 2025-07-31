@@ -61,10 +61,10 @@ Traffic-Light-Controller-Verilog/
 ## ▶️ Simulation
 
 ### 📷 RTL Schematic
-<img width="1499" height="652" alt="schematics" src="https://github.com/user-attachments/assets/690d032a-e076-46d9-ba9f-67ce0212b635" />
+<img width="1495" height="641" alt="Schematics" src="https://github.com/user-attachments/assets/b178b1a6-0b6c-4df0-90d6-01a3cb8d4dc2" />
 
 ### 📷 Simulation Waveform
-<img width="1489" height="578" alt="simulation" src="https://github.com/user-attachments/assets/87c82da9-e7d3-4db5-b389-94311fb02a39" />
+<img width="1487" height="633" alt="Simulation" src="https://github.com/user-attachments/assets/993f3694-8b35-47dd-81f8-4df449a525fe" />
 
 ---
 
@@ -95,6 +95,7 @@ This project is licensed under the [MIT License](./LICENSE).
 ## 👩‍💻 Author
 
 **Isha Rani**
+
 
 
 
