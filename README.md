@@ -29,6 +29,7 @@ The traffic light controller transitions through the following sequence:
 ---
 
 ## 📁 Project Structure
+```bash
 
 Traffic-Light-Controller-Verilog/
 ├── traffic_light_controller.v       # Main Verilog module
@@ -38,7 +39,7 @@ Traffic-Light-Controller-Verilog/
 │   └── Simulation.png    # Simulation waveform output
 ├── README.md                        # Project documentation
 └── LICENSE                          # MIT License
-
+```
 
 ---
 
